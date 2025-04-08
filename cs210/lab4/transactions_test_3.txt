@@ -1,0 +1,8 @@
+#first enhanced account
+new EnhancedBankAccount	Smith	Joe	30	40
+withdrawFromChecking	20.1
+withdrawFromSavings	10.5
+depositToChecking	100.0
+depositToSavings	200.0
+transferToChecking	10.5
+transferToSavings	20.3
